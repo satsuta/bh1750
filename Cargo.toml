@@ -1,0 +1,8 @@
+[package]
+name = "bh1750-ehal"
+version = "0.0.1"
+authors = ["Daniil Satsuta <d.satsuta@gmail.com>"]
+edition = "2018"
+
+[dependencies.embedded-hal]
+version = "0.2.1"
