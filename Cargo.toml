@@ -1,11 +1,12 @@
 [package]
 name = "bh1750-ehal"
-version = "0.0.1"
+version = "0.0.2"
 authors = ["Daniil Satsuta <d.satsuta@gmail.com>"]
 edition = "2018"
 description = "Driver fro  BH1750 is an digital Ambient Light Sensor IC for I2C bus interface."
 keywords = ["embedded-hal-driver", "sensor", "i2c"]
 categories = ["embedded", "hardware-support", "no-std"]
+repository = "https://github.com/satsuta/bh1750"
 license = "MIT"
 readme = "README.md"
 
